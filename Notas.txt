@@ -1,0 +1,4 @@
+container 
+container-fluid ##ocupa todo el espacio de la pantalla.
+class="pb-4 pt-4" ##padding button y top
+ml-auto  ##calcula el margin automatico hacia la izquierda
