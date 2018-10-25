@@ -45,10 +45,20 @@
     color: white;
 }
 
-.btn-color:hover{
+.btn-color:hover {
     background-color: #82ad36;
 }
 
 #lfecha img {
     max-width: 100%;
+    border-radius: 5px;
+}
+
+#lfecha {
+    background-color: #343a40;
+    color: white;
+}
+
+#dj img {
+    border-radius: 2px;
 }
